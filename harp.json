@@ -1,0 +1,8 @@
+{
+    "globals": {
+        "SiteName": "Harp Test Site",
+        "name": "John Doe",
+        "uri": "http://example.com"
+
+    }
+}
